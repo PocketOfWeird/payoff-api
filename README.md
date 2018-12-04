@@ -1,2 +1,2 @@
 # payoff-api
-Backend to the Payoff Bufget Application
+Back-end to the Payoff Budget Application
